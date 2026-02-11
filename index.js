@@ -19,4 +19,4 @@ if (xpDoHeroi <= 1000) {
 } else {
   patente = "Radiante";
 }
-console.log("O herói de chama " + nomeDoHeroi + ", e tem " + xpDoHeroi + " de experiência e sua patente é: " + patente)
+console.log("O herói se chama " + nomeDoHeroi + ", e tem " + xpDoHeroi + " de experiência e sua patente é: " + patente)
